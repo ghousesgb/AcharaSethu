@@ -1,0 +1,6 @@
+framework module DZNEmptyDataSet {
+  umbrella header "Pods-DZNEmptyDataSet-umbrella.h"
+
+  export *
+  module * { export * }
+}
